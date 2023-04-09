@@ -1,0 +1,10 @@
+.countsText {
+  font-size: large;
+  margin-top: 15px;
+  text-align: center;
+}
+
+.count {
+  text-decoration: underline;
+  color: blue;
+}
